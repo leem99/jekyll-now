@@ -3,8 +3,6 @@ layout: post
 title: Metis Week 1
 ---
 
-# Metis Week 1
-
 ## General Thoughts
 
 * Bootcamp title is appropriate. (Definitely not a data science retreat!)

@@ -29,5 +29,10 @@ to optimially place street canvassers for gathering signatures.
 * We had a lot of fun with this project.
   * Looked at which stations were the busiest at dinner and lunch.
   * At the busiest stations, which turnstiles were most trafficed. 
-  * Inspired by an episod of [*Seinfeld*](https://www.youtube.com/watch?v=IFE9C7BBkTY) tried to identify the busiest platforms, in case our client wanted to expand into the trackside halal cart market.
-  
+  * Inspired by an episod of [*Seinfeld*](https://www.youtube.com/watch?v=IFE9C7BBkTY) 
+  tried to identify the busiest platforms, in case our client wanted to expand into the trackside halal cart market.
+* The [MTA dataset](http://web.mta.info/developers/turnstile.html) is very messy. 
+We Quickly learned that a large part of data science is obtaining and cleaning datasets.
+  * Turnstiles counters periodically reset. 
+  * There are several stations with identical names. 
+* Once again, very fast pace. Went from going over Python, Pandas, git to a finished project in less than a week. Finished our analysis an hour before presenting.

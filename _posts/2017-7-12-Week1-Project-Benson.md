@@ -8,7 +8,9 @@ title: Metis Week 1
 ## General Thoughts
 
 * Bootcamp title is appropriate. (Definitely not a data science retreat!)
-  * 
+  * Very fast passed. However, I've been able to keep up (being very dedicated).
+  * Workload, feels a little like finals week in gradschool.
+  * Thusfar, the curriculum has been well thought out. 
 * Impressed by the availability of instructors
   * Two instructors and one TA present from 9:30 until 6:00 pm
 * Impressed by the quality of students. 

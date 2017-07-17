@@ -46,7 +46,7 @@ Given that our customer was an operator of food carts, we identified which stati
 
 Inspired by [*Seinfeld*](https://www.youtube.com/watch?v=IFE9C7BBkTY) , we also tried to identify the busiest platforms, just in case The Brother’s Falafel wanted to install track side food carts. We made the following assumptions: 1) each train line had its own platform, and 2) Traffic within each station was equally sub-divided amongst platforms. In doing so, we determined that many of the busiest platforms were in outer borough stations served by one train.
 
-Our presentation, and the code for our analysis, can be found here.
+Our presentation, and the code for our analysis, can be found [here](https://github.com/leem99/sf17_ds7/tree/master/student_submissions/projects/01-benson/group-3).
 
 #### Final Thoughts
 

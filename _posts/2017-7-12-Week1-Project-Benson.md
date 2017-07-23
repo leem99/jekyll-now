@@ -3,13 +3,17 @@ layout: post
 title: Metis Week 1
 ---
 
-# Full Speed Ahead
-  
-## Project Benson
+## Full Speed Ahead: Project Benson
 
-#### Objectives
+#### About Metis
 
-Metis uses a project based curriculum. The first project is a group based, and is completed during the first week of the program. This project, code named project Benson, revolves around New York City subway turnstile data. Once every four hours, each turnstile within the subway system records how many people entered and left the system through it. The data from all turnstiles are sent to a central database, and the records are made publicly available by the Metropolitan Transportation Authority (MTA) on a weekly basis.
+I am currently enrolled in a 12 week immersive data science boot camp operated by [Metis](https://www.thisismetis.com/faq) in San Francisco. Throughout the course of the bootcamp, students learn the fundamentals of data science, namely statistical inference and machine learning (supervised, unsupervised, natural language processing). Students also learn about data collection, data cleaning and storage, and data visualization. All of the course materials are taught in using Python. 
+
+Our days start around 9:15 AM with a "paired program exercise". We work in randomly assigned pairs to complete brain teasers (usually revolving around statistics or computer programming), in order to reinforce the course material and get our brains firing on all cylinders. From about 10:30 until noon we got through a formal lecture. We then break for lunch from noon until 1:30. On some days there is another brief lecture in the afternoon. Otherwise we focus on our projects for the remainder afternoon, until about 6:00 PM. Throughout the boot camp there are four assigned projects, and a final, self-assigned, "passion project." For the final three weeks of the bootcamp, we will focus on exclusively on our final projects.
+
+#### Project Objectives
+
+As previously mentioned, Metis uses a project based curriculum. The first project is a group based, and is completed during the first week of the program. This project, code named project Benson, revolves around New York City subway turnstile data. Once every four hours, each turnstile within the subway system records how many people entered and left the system through it. The data from all turnstiles are sent to a central database, and the records are made publicly available by the Metropolitan Transportation Authority (MTA) on a weekly basis.
 
 The original problem statement was to use [MTA turnstile data](http://web.mta.info/developers/turnstile.html)
 to help a fictitious non-profit  optimally place street canvassers for gathering signatures. In order to keep things interesting, each team was encouraged to tweak the problem statement and investigate a slightly different problem.  My team decided to help an imaginary food cart chain, The Brothers Falafel, optimally place food carts in order to maximize revenue. 

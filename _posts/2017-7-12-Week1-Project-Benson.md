@@ -34,11 +34,11 @@ Inspired by [*Seinfeld*](https://www.youtube.com/watch?v=IFE9C7BBkTY) , we also 
 
 #### Final Thoughts
 
-I’m glad that the groups were encouraged to modify the original problem statement. This made the project more fun. It also resulted in each team dissecting the data a little differently, and enabled the various teams to learn from each other.
+* I’m glad that the groups were encouraged to modify the original problem statement. This made the project more fun. It also resulted in each team dissecting the data a little differently, and enabled the various teams to learn from each other.
 
-Pandas in an incredibly powerful tool for exploratory data analysis. Once we got the hang of it, many of in the queries we had (such as aggregating to daily resolution and subsetting lunchtime and dinnertime data) could be made in a line or two of code.
+* Pandas in an incredibly powerful tool for exploratory data analysis. Once we got the hang of it, many of in the queries we had (such as aggregating to daily resolution and subsetting lunchtime and dinnertime data) could be made in a line or two of code.
 
-Once again, the boot camp has been very fast paced. We went from going over Python, Pandas, and git to a finished project in less than a week.
+* Once again, the boot camp has been very fast paced. We went from reviewing basic tools (such Python, Pandas, and git) to a finished project in less than a week.
 
 
 

@@ -9,7 +9,7 @@ title: Metis Week 1
 
 #### Objectives
 
-Metis uses a project based curriculum. The first project is a group based, and is completed during the first week of the program. This project, code named project Benson, revolves around New York City Subway Turnstile data. Once every four hours, each turnstile within the subway system records how many people entered and left the system through it. The data from all turnstiles are sent to a central database, and the records are made publicly available by the Metropolitan Transportation Authority (MTA) on a weekly basis.
+Metis uses a project based curriculum. The first project is a group based, and is completed during the first week of the program. This project, code named project Benson, revolves around New York City subway turnstile data. Once every four hours, each turnstile within the subway system records how many people entered and left the system through it. The data from all turnstiles are sent to a central database, and the records are made publicly available by the Metropolitan Transportation Authority (MTA) on a weekly basis.
 
 The original problem statement was to use [MTA turnstile data](http://web.mta.info/developers/turnstile.html)
 to help a fictitious non-profit  optimally place street canvassers for gathering signatures. In order to keep things interesting, each team was encouraged to tweak the problem statement and investigate a slightly different problem.  My team decided to help an imaginary food cart chain, The Brothers Falafel, optimally place food carts in order to maximize revenue. 
@@ -34,7 +34,7 @@ Inspired by [*Seinfeld*](https://www.youtube.com/watch?v=IFE9C7BBkTY) , we also 
 
 #### Final Thoughts
 
-I’m glad that the groups were encouraged to modify the original problem statement. This made the project more fun. It also resulted in each team dissecting the data a little differently, and enabled the various teams to learn from each.
+I’m glad that the groups were encouraged to modify the original problem statement. This made the project more fun. It also resulted in each team dissecting the data a little differently, and enabled the various teams to learn from each other.
 
 Pandas in an incredibly powerful tool for exploratory data analysis. Once we got the hang of it, many of in the queries we had (such as aggregating to daily resolution and subsetting lunchtime and dinnertime data) could be made in a line or two of code.
 

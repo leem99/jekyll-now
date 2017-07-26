@@ -3,9 +3,8 @@ layout: post
 title: Metis Week 3
 ---
 
-## Full Speed Ahead: Project Luther
+## Week 3: Project Luther
 
 #### Goals of the Project
 
-
-WFT
+The goals of the project were to practice web scraping and data modeling.

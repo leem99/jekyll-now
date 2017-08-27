@@ -3,8 +3,12 @@ layout: post
 title: Metis Week 8
 ---
 
-## Traveling to Parts Unknown: Project Fletcher
+## Uncharted Territory: Project Fletcher
 
-The fourth Metis project, known as project Fletcher was open ended. The only requirment was that it involve natural language processing [(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). NLP is the processing of human generated text or speech by computers in order to do something useful. Applications for NLP are seemingly endless; they range from spam filters to dictation software. NLP even frequently used in online recommendation systems. 
+The fourth Metis project, known as project Fletcher was open ended. The only requirment was that it involve natural language processing [(NLP)](https://en.wikipedia.org/wiki/Natural_language_processing). NLP is the processing of human generated text or speech by computers in order to do something useful. Applications for NLP are seemingly endless; they range from spam filters to dictation software. NLP is even used in many online recommendation systems. 
 
-For me this was an exciting new world. For my entire professional career I've built models that take in continuous numeric inputs and return numeric outputs. 
+For me, this project was uncharted terrority. For my entire career I've built models that take in numeric inputs and return numeric outputs. Nevertheless, I was very excited for this project, having NLP techniques in my toolbox will greatly expand the types of problems I am able to solve a data scientist.
+
+### Legal Blob
+
+I read the news, and I follow politics. That being said, my background is as an engineer and scientist. I had no idea what congressmen and women do on a daily basis. It was my hunch that the news only reports on a narrow slice of congressal activity, and that the parts we hear about tend to be the most sensational and polarizing. 

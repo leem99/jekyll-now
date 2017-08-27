@@ -11,4 +11,7 @@ For me, this project was uncharted terrority. For my entire career I've built mo
 
 ### Legal Blob
 
-I read the news, and I follow politics. That being said, my background is as an engineer and scientist. I had no idea what congressmen and women do on a daily basis. It was my hunch that we only hear about a narrow slice of congressal activity, and that slice tends to be the most sensational and polarizing. 
+I read the news, and I follow politics. That being said, my background is as an engineer and scientist. I had no idea what congressmen and women do on a daily basis. It was my hunch that we only hear about a narrow slice of congressal activity, and that slice tends to be the most sensational and polarizing. For this project, I wanted create a means to sort through the types of legislation passed by congress
+
+
+<iframe src="http://bl.ocks.org/mbostock/raw/4061502/0a200ddf998aa75dfdb1ff32e16b680a15e5cb01/" width="600" height="400" marginwidth="0" marginheight="0" scrolling="no"></iframe>

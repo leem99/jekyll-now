@@ -15,7 +15,9 @@ I read the news, and I follow politics. That being said, my background is as an 
 
 #### The Process
 
+[link]: http://d3js.org
 
+{% include d3/_blob_d3.html %}
 
 #### Link to Legal Blob
 

@@ -13,6 +13,6 @@ For me, this project was uncharted terrority. For my entire career I've built mo
 
 I read the news, and I follow politics. That being said, my background is as an engineer and scientist. I had no idea what congressmen and women do on a daily basis. It was my hunch that we only hear about a narrow slice of congressal activity, and that slice tends to be the most sensational and polarizing. For this project, I wanted create a means to sort through the types of legislation passed by congress. In other words, I wanted to create a tool to learn more about congress, and to hopefully make that process fun.
 
-#### The Process
+__The Process__
 
 lets see if that works.

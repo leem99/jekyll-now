@@ -16,3 +16,8 @@ I read the news, and I follow politics. That being said, my background is as an 
 __The Process__
 
 lets see if that works.
+
+{% include d3/_blob_d3.html %}
+
+
+probably not
